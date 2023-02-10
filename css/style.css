@@ -3225,6 +3225,11 @@ button.swiper-pagination-bullet {
     color: #d52628;
   }
 
+  .tech-tabs__title._tab-active:hover,
+  .complete-tabs__title._tab-active:hover {
+    color: #FFF;
+  }
+
   .services__item:hover .services__item-body img {
     -webkit-transform: scale(1.095);
         -ms-transform: scale(1.095);
